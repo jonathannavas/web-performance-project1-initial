@@ -1,0 +1,1 @@
+# Proyecto web de práctica para aplicar mejoras de rendimiento
